@@ -18,7 +18,7 @@
 
 ---
 ### 🏆 Сертификаты
-  - [PDF с сертификатами](https://drive.google.com/file/d/1gCqiFQiXEJsYJulis3R_PzAzBFn3y_s0/view?usp=sharing)
+  - [PDF с сертификатами](https://drive.google.com/file/d/1wxue8NiErZM4v6t0jlpA2P9PPFf5WWaD/view?usp=sharing)
 ---
 ### 📁 Портфолио
 - Тестовая документация
@@ -33,6 +33,7 @@
   -  [Demo-shop](https://www.postman.com/engitab-3000950/workspace/vladislav-taboyakov-s-workspace/collection/47074262-1b745c92-3279-42f9-9cd3-f6309281a0e5?action=share&creator=47074262)
 ---
 ### 📋 Пройденные курсы
+  - [Neoflex - Testing]
   - [Stepik - Тестирование ПО с Нуля до Специалиста]
   - [Stepik - Тестирование ПО с нуля. Теория + Практика. Уровень BASIC]
   - [Stepik - Тестирование ПО с нуля. Теория + практика. Уровень PRO]
