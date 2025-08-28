@@ -18,7 +18,7 @@
 
 ---
 ### 🏆 Сертификаты
-  - [PDF с сертификатами](https://drive.google.com/file/d/1wQfIDGWDmSzhhXKFop8f_r78hc8M0yAZ/view?usp=sharing)
+  - [PDF с сертификатами](https://drive.google.com/file/d/1gCqiFQiXEJsYJulis3R_PzAzBFn3y_s0/view?usp=sharing)
 ---
 ### 📁 Портфолио
 - Тестовая документация
